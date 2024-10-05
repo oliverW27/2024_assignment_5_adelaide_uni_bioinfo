@@ -7,7 +7,7 @@
 ### Changed
 
 - Fixed 'XXXXXX' bug in data/a1863615.txt. [#12](https://github.com/davmlaw/2024_assignment_5_adelaide_uni_bioinfo/issues/12)
-- Fixed UPPERCASE bug in data/a1863615.txt [#13] (https://github.com/davmlaw/2024_assignment_5_adelaide_uni_bioinfo/issues/13)
+- Fixed UPPERCASE bug in data/a1863615.txt [#13](https://github.com/davmlaw/2024_assignment_5_adelaide_uni_bioinfo/issues/13)
 
 ## [0.1.1] - 2024-09-23
 
